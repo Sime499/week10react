@@ -1,0 +1,28 @@
+
+.card {
+    background: royalblue;
+    border-radius: 5px;
+    margin: 5px 2px 5px 2px;
+    display: flex;
+
+ 
+ }
+
+ .card h1{
+     color: white;
+    margin-right: 30px; }
+
+
+.Btn{
+    background-color: royalblue;
+    cursor: pointer;
+    border: none;
+    font:  sans-serif;
+    color: white;
+    font-weight: 300;
+    font-size: 24px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 30px;
+}
+

@@ -1,0 +1,21 @@
+.CommentBox { 
+    background-color: goldenrod;
+    font-size: 24px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    
+}
+
+.ArticleBox{
+
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 0px;
+}
+
+.ArticleBox h2{
+    font-size: 28px;
+    color: royalblue;
+}
